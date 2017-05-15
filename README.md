@@ -1,5 +1,8 @@
 # Online-Elevator-Simulator
-new version of elevator-algorithms-simulator 
+new version of elevator-algorithms-simulator, half done.
+
+## Run on localhost:3000
+npm start
 
 ## Screen Captures
 #### Select number of floors and elevators.
