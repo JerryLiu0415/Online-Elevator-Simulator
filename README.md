@@ -16,3 +16,6 @@ npm start
 
 #### Avg waiting(z-axis) vs. # elevators vs. capacities.
 ![](https://github.com/JerryLiu0415/Online-Elevator-Simulator/blob/master/screencaptures/ElevatorStat.png)
+
+#### Another bar chart for a 10-floor building.
+![](https://github.com/JerryLiu0415/Online-Elevator-Simulator/blob/master/screencaptures/stat.png)
